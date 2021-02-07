@@ -8,7 +8,9 @@ Using Javascript and HTML to develop a webpage containing a dynamic table to fil
 
 Using Javascript and HTML to develop a webpage containing a dynamic table to filter for and review UFO sightings.  The dynamic table features multiple filter criteria (date, city, state, country, and shape) that can be used individually or in combination for further refinement.   
 
-## Webpage Use and Challenges:
+## Webpage Results and Challenges:
+
+### Webpage Use and Navigation:
 
 The UFO sightings webpage has been configured to offer multiple filter criteria settings in order for users to review UFO sightings that match their search criteria.  To focus a users review of UFO sightings, filter criteria are available for UFO sighting date, city, state, country, and shape.  Each filter criteria can be populated individually or in combination to further refine search results. Example values have been pre-populated into each filter criteria field for users to view the format the filter criteria value should be entered.  After populating at least one filter criteria with a search value and pressing either the Enter or Tab key, the table will update to reflect the UFO sightings that match the filter criteria value entered.  Below are two illustrations that reflect (1) the full website without any filter criteria entered, (2) the updated table when a filter criteria value is entered (in this case, a state of "nm" is entered for New Mexico).
 
